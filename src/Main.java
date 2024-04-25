@@ -31,9 +31,5 @@ public class Main {
             }
         }
 
-//        Bud bud = new Bud(false);
-//        flowers.get(2).setBud(bud);
-//        System.out.println("Ой!");
-//        flowers.get(2).blossomFlower();
     }
 }
